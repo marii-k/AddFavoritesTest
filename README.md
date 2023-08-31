@@ -3,8 +3,7 @@
 # Задание 1.
 Составление плана тестирования 
 Задача: 
-Необходимо составить план тестирования для функциональности “Избранное” для трёх объявлений из разных категорий. Избранные объявления доступны со страницы: https://www.avito.ru/favorites. План тесирования [План тесирования]([https://www.google.com](https://docs.google.com/document/d/1_lASIUf4-JLMBMM-80-pK3svIJQRKv9PERcUZAibYSM/edit?pli=1)https://docs.google.com/document/d/1_lASIUf4-JLMBMM-80-pK3svIJQRKv9PERcUZAibYSM/edit?pli=1)
-# Задание 2.
+Необходимо составить план тестирования для функциональности “Избранное” для трёх объявлений из разных категорий. Доступны со страницы [Избранные объявления](https://www.avito.ru/favorites). [План тестирования](https://docs.google.com/document/d/1_lASIUf4-JLMBMM-80-pK3svIJQRKv9PERcUZAibYSM/edit?pli=1)
 Автоматизация позитивного тест-кейса 
 Задача:
 Добавить в избранное с карточки объявления.
